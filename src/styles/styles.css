@@ -1,0 +1,36 @@
+/* Styles */
+#app{
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  margin: 0 auto;
+}
+
+a.active{
+  color: black;
+  font-weight: bolder;
+  font-size: medium;
+}
+
+.ReactTable .-pagination .-btn {
+height: auto;
+}
+
+.rt-th{
+  font-size: medium;
+}
+
+React-table :first-child{
+  background-color: deepskyblue;
+}
+
+nav{
+  padding-top: 20px;
+}
+
+
+.formStyle{
+  width: 100%;
+  margin-top: 5px;
+  background-color: aqua;
+  opacity: 0.8;
+}
